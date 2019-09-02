@@ -1,3 +1,0 @@
-[submodule "keras-bert"]
-	path = keras-bert
-	url = https://github.com/strongio/keras-bert.git
